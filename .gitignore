@@ -1,0 +1,5 @@
+/build/
+/cmake-build-*/
+/agent_workspace/
+*.db
+trajectory_*.json
